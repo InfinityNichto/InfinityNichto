@@ -1,4 +1,4 @@
-## This is Nichto/Swaggie, a computer wizard from earth.
+## This is Nichto/Swaggie, a computer witch from earth.
 - Currently working on an API for TL Pro
 - Next project: TLModLoader
 - How to reach me out: u5170201@gmail.com or my discord: @notswaggie
